@@ -5,3 +5,5 @@ I am Rahul Kumar, a third-year undergraduate at IIT Gandhinagar in the decepline
 -
 - 📫 How to reach me: kumar.rahul@iitgn.ac.in
 
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKumar408)](https://github.com/anuraghazra/github-readme-stats)
