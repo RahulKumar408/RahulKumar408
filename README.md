@@ -1,5 +1,5 @@
 ## Hi I'm Rahul 👋
-I am Rahul Kumar, a third-year undergraduate at IIT Gandhinagar in the decepline of Chemical Engineering with minor in Computer Science and Engineering. I have an interest in the fields of Web Development, App Development.
+I am Rahul Kumar, a senior undergraduate at IIT Gandhinagar in the discipline of Chemical Engineering with a minor in Computer Science and Engineering. I have an interest in the field of Web Development and Data Analysis.
 
 - I am Indian
 - 📫 How to reach me: kumar.rahul@iitgn.ac.in
